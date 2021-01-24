@@ -1,5 +1,7 @@
 # Miscellaneous mini projects programmed with C++
 
+**binary_ascii_conversion** : A program that outputs the appropriate ASCII character of a series of binary numbers.
+
 **draw_pascal_traingle.cpp** : A program that displays Pascal’s Triangle based on the number of rows a user inputs.
 
 **fraction_simplifier.cpp** : A program that outputs the sum of two fractions reduced to its simple or mixed form; improper form is unacceptable.
